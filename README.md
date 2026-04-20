@@ -14,15 +14,10 @@
 
 ---
 
-> ⚠️ **Note:** This is a **Java Swing desktop application** — it runs locally on your machine and connects to a MySQL database. It is not a web application and cannot be hosted online like a website.
 >
 > 🔗 **GitHub Repository:** [https://github.com/shivangi-mtxqw/StudentManagementSystemNew](https://github.com/shivangi-mtxqw/StudentManagementSystemNew)
 
 ---
-
-## 📸 Screenshots
-
-> _Login Screen → Dashboard → Students / Attendance / Results tabs_
 
 | Login | Dashboard |
 |---|---|
